@@ -1,0 +1,3 @@
+[submodule "Plugins/SimpleSetup"]
+	path = Plugins/SimpleSetup
+	url = https://github.com/NikolayChedurov2011/SimpleSetup.git
